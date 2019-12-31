@@ -51,6 +51,8 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
+    "acorn": "^7.1.0",
+    "acorn-jsx": "^5.1.0",
     "cross-env": "^6.0.3"
   }
 }
